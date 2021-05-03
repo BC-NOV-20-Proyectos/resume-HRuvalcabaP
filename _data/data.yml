@@ -7,16 +7,16 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: My Full Name # Nombre completo
-  tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
+  name: My Full Name # Héctor Manuel Ruvalcaba Pizano
+  tagline: React Native Mobile Developer # React Native Mobile Developer 
   avatar: profile.png # Colocar una imagen con tu foto de 100x100 pixels dentro de /assets/images
 
   # Actualiza tus datos de contacto
-  email: name@brightcoders.com
-  phone:
+  email: hectormanuel_ruvalcaba@ucol.mx
+  phone: 3121044323
   website: # No agregar http://
-  linkedin: brightcoders
-  github: brightcoders
+  linkedin: Héctor Manuel Ruvalcaba Pizano
+  github: HRuvalcabaP
   gitlab:
   bitbucket:
   twitter: '@BrightCoders'
@@ -31,9 +31,6 @@ sidebar:
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
-
-    - idiom: German
-      level: Colloquial
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
@@ -50,39 +47,16 @@ sidebar:
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    Lorem ipsum dolor sit amet, con sectetur adipiscing elit. Proin purus ligula, posuere semper est sed, pretium elementum massa. Duis et orci sed nunc. Maecenas at egestas mi. Nulla id augue a lectus condimentum scelerisque vitae sed dui.
+    Soy una persona responsable, que le gusta aprender nuevas tecnologías y trabajar en equipo. Me especializo en la creación y diseño de páginas web como también en el mantenimiento de dichas páginas.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: Applied Scientist full-time at AWS
-    university: Germany
-    time: 2020 Oct - current
-    details: |
+  - degree: Ingeniería de Software
+    university: Universidad de Colima
+    time: Agosto 2017 - Junio 2021
+    details: 
 
-  - degree: PhD in Computer vision and Machine learning
-    university: Heidelberg University
-    time: 2015 - 2020
-    details: |
-      Unsupervised deep learning for automatic behavior analysis
-
-        - Unsupervised learning
-        - Representaion learning
-        - Automatic Behavior Analysis
-
-  - degree: Internship (Master Thesis)
-    university: Tobii
-    time: 2014 - 2015
-    details: |
-      Master thesis topic Hand gesture classification by Deep learning using infrared camera 
-
-        - Deep learning
-        - Hand Gesture
-
-  - degree: Bachelor Degree
-    university: Politecnico di Torino (Torino, Italy)
-    time: 2009 - 2012
-    details: |
-      Master degree in Computer Engineering
+/////////////////////////////
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
