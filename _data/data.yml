@@ -7,15 +7,15 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: My Full Name # Héctor Manuel Ruvalcaba Pizano
-  tagline: React Native Mobile Developer # React Native Mobile Developer 
+  name:  Héctor Manuel Ruvalcaba Pizano
+  tagline: React Native Mobile Developer
   avatar: profile.png # Colocar una imagen con tu foto de 100x100 pixels dentro de /assets/images
 
   # Actualiza tus datos de contacto
   email: hectormanuel_ruvalcaba@ucol.mx
   phone: 3121044323
   website: # No agregar http://
-  linkedin: Héctor Manuel Ruvalcaba Pizano
+  linkedin: Héctor-Ruvalcaba
   github: HRuvalcabaP
   gitlab:
   bitbucket:
@@ -27,7 +27,7 @@ sidebar:
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level: Fluent # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level: B2 # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
@@ -42,49 +42,31 @@ sidebar:
 
     - item: Time Management
       link: # dejar en blanco
-
+      
+     - item: Organization
+    link: # dejar en blanco
+    
+    
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
-  summary: |
-    Soy una persona responsable, que le gusta aprender nuevas tecnologías y trabajar en equipo. Me especializo en la creación y diseño de páginas web como también en el mantenimiento de dichas páginas.
+  summary: I am a responsible person, who likes to learn new technologies and work in a team. I specialize in the creation and design of web pages as well as the maintenance of these pages.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
   - degree: Ingeniería de Software
     university: Universidad de Colima
     time: Agosto 2017 - Junio 2021
-    details: 
+    details: Web devoloper
 
-/////////////////////////////
+
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
+  - role: Relational Database Developer
+    time: June 2020 - October 2020
+    company: Byfrost Systems
+    details: I was in charge of the databe pf a project related to agriculture. I created the database, the tables, and implemented the relationship between each of them.
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -97,22 +79,25 @@ skills:
 
   toolset:
     - name: Python
-      level: 20%
+      level: 30%
 
-    - name: PyTorch
+    - name: C#
       level: 40%
 
-    - name: Tensorflow
+    - name: JavaScript
+      level: 30%
+      
+     - name: HTML
       level: 60%
+      
+     - name: CSS
+      level: 70%
+      
+     - name: Bootstrap
+      level: 50%
+      
+      
 
-    - name: Caffe
-      level: 80%
-
-    - name: Matlab
-      level: 100%
-
-    - name: C/C++
-      level: 40%
 
 # NO MODIFICAR
 footer: >
