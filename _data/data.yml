@@ -75,7 +75,7 @@ experiences:
 
 skills:
 
-title: Technical Skills # NO MODIFICAR
+  title: Technical Skills # NO MODIFICAR
   
   toolset:
     - name: Python
@@ -87,13 +87,13 @@ title: Technical Skills # NO MODIFICAR
     - name: JavaScript
       level: 30%
       
-     - name: HTML
+    - name: HTML
       level: 60%
       
-     - name: CSS
+    - name: CSS
       level: 70%
       
-     - name: Bootstrap
+    - name: Bootstrap
       level: 50%
       
 
