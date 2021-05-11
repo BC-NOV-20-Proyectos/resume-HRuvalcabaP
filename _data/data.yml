@@ -33,7 +33,7 @@ sidebar:
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
   
- # Registra aquí tus soft skills. Agrega o elimina según sea necesario
+  # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
     - item: Communication
       link: # dejar en blanco
@@ -43,9 +43,6 @@ sidebar:
 
     - item: Time Management
       link: # dejar en blanco
-      
-     - item: Organization
-       link: # dejar en blanco
     
     
 # Registra aquí un resumen de tu perfil
