@@ -74,8 +74,8 @@ experiences:
 # 100% para Expert
 
 skills:
-  title: Technical Skills # NO MODIFICAR
-  
+
+title: Technical Skills # NO MODIFICAR
   
   toolset:
     - name: Python
