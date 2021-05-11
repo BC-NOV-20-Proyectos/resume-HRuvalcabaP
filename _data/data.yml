@@ -76,8 +76,8 @@ skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
-    - name: Python
-      level: 30%
+  - name: Python
+    level: 30%
 
     - name: C#
       level: 40%
